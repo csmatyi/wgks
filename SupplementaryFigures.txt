@@ -1,0 +1,7 @@
+Supplementary Figure 1. A. Histogram of score values using the WGKS algorithm for octamers for A. gambiae. B. Normal Q-Q plot of the same score values.
+Supplementary Figure 2. Elbow plot showing an optimal number of 4 clusters for 61 species analyzed with the WGKS method.
+Supplementary Figure 3. A. Beeswarm plot of PCC values from the WGKS analysis. B. ECDF plot of the same PCC values.
+Supplementary Figure 4. Silhouette plot showing the silhouette width for 98 species whose mtDNA sequence was analyzed.
+Supplementary Figure 5. A. Beeswarm plot of sequence similarity values from the mtDNA sequence alignment. B. ECDF plot of the same sequence similarity values.
+Supplementary Figure 6. Silhouette plot showing the silhouette width for 44 species analyzed with the GCM method.
+Supplementary Figure 7. A. Beeswarm plot of JCV values from the GCM analysis. B. ECDF plot of the same JCV values.
